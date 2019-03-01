@@ -34,3 +34,8 @@ python main.py -s Images/clinton.jpg -d Images/Trump.jpg -p models/shape_predict
 
 Note: See [requirements.txt](requirements.txt) for more details.
 
+### Swap Faces
+```sh
+python main.py ...
+```
+Note: Run **python main.py -h** for more details.
