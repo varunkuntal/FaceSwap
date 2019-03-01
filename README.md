@@ -1,5 +1,5 @@
 # FaceSwapper
-Swap faces between two photos having a face each.
+Swap faces between two photos using OpenCV & dlib using facial landmarks and/or extra points calculated that cover full face.
 
 ## Get Started
 ```sh
